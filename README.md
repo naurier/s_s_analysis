@@ -1,7 +1,7 @@
 # s_s_analysis
 jupyter notebook codes for sentence similarity analysis 
 
-<p>export_pearsonrs_and_pvalues.jpynb</p>
+<b>export_pearsonrs_and_pvalues.jpynb</b>
 As a preliminary step, exclude from analysis any data where the p-values of the correlation in the double-pass section are below or at 0.05.
 
 ## Matrix_from_CSV_with_stimulus_pairs_and_similarity_avg.ipynb
