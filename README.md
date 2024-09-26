@@ -10,5 +10,5 @@ After creating a CSV that lists all pairs of stumulus sentences and their averag
 ###  └analysis_by_traits
   Sort the sentence pairs in the CSV by 'list_sentencePairs_dissimilarityRatings_traits.ipynb' so that identical sentence pairs and their ratings and scores are grouped together. Then, input the resulting CSV into     'calculate_pearsonrs_spearmanrs_p-values.ipynb'.
 
-  <b>─'calculate_pearsonrs_spearmanrs_p-values.ipynb'</b><br>
+  ──<b>'calculate_pearsonrs_spearmanrs_p-values.ipynb'</b><br>
   Please input one of the 5 traits into 'openness = group['Neuroticism']'.
